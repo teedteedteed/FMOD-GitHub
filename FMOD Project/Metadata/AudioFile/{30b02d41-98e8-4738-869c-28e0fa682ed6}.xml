@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{30b02d41-98e8-4738-869c-28e0fa682ed6}">
+		<property name="assetPath">
+			<value>EXPLDsgn_Long Tonal Explosions 01_DR_NONE.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.5191874999999992</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cf6b262d-0e55-4359-855a-1a6c0f1bc035}</destination>
+		</relationship>
+	</object>
+</objects>
